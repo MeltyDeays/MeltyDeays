@@ -65,9 +65,9 @@ Desarrollador especializado en el diseño e implementación de aplicaciones web 
 
 | Proyecto | Tecnologías | Descripción | Estado |
 |:---|:---|:---|:---:|
-| 🏛️ [**CivicReport**](https://github.com/MeltyDeays/CivicReport) | `React`, `Vite`, `Supabase`, `Spring Boot`, `ONNX` | Plataforma de reportes ciudadanos y gestión municipal con validación biométrica facial. | `En Desarrollo` |
-| 🧠 [**Pragma-AI**](https://github.com/MeltyDeays/Pragma-AI) | `Node.js`, `OpenAI`, `React` | Asistente inteligente autónomo con diseño de arquitectura desacoplada. | `Completado` |
-| 🚜 [**AgroApp**](https://github.com/MeltyDeays/AgroApp) | `React Native`, `Expo`, `PostgreSQL` | Aplicación móvil de gestión agrícola para monitoreo de cultivos. | `Completado` |
+| 🏛️ [**CivicReport**](https://github.com/MeltyDeays/CivicReport) | `React 19`, `Vite 8`, `Supabase`, `Spring Boot`, `ONNX Runtime` | **Canal de comunicación directa entre ciudadanos y municipalidades.** Permite reportar incidencias urbanas (baches, alumbrado, drenaje) en tiempo real con geolocalización. Gestiona de punta a punta la asignación de cuadrillas de obra y el inventario de materiales de reparación, utilizando biometría facial (selfie vs cédula) local para asegurar la autenticidad de los reportes. | `En Desarrollo` |
+| 🧠 [**Pragma-AI**](https://github.com/MeltyDeays/Pragma-AI) | `Node.js`, `OpenAI API`, `React`, `TailwindCSS` | **Plataforma educativa de programación interactiva y gamificada.** Diseñada para que personas sin conocimientos previos aprendan a programar desde cero en múltiples lenguajes a través de hasta 100 tareas prácticas por lenguaje. Integra una IA que genera los enunciados de las tareas en formato de documento, evalúa las entregas y otorga calificaciones, todo envuelto en una experiencia de gamificación con elementos de RPG (sistema de rol, niveles, logros) y soporte multijugador. | `Completado` |
+| 🚜 [**AgroApp**](https://github.com/MeltyDeays/AgroApp) | `React Native`, `Expo Go`, `PostgreSQL`, `Express` | **Herramienta digital para la administración y control agrícola en campo.** Optimiza el monitoreo y seguimiento del estado de los cultivos, coordina las actividades de los trabajadores rurales y lleva un control exacto de insumos y maquinaria. Su arquitectura soporta sincronización en modo offline para trabajar sin cobertura de red. | `Completado` |
 
 ---
 
